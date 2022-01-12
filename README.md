@@ -1,2 +1,2 @@
   
-# html odev1 frontend
+# html odev1 fronten web geliştirme
